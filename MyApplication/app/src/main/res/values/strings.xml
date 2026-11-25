@@ -1,8 +1,10 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="nombre_estudiante">Fernando</string>
+    <string name="nombre_estudiante">Saul</string>
     <string name="nombre_materia">desarrollo de aplicaciones moviles</string>
     <string name="apellido">Delgado</string>
     <string name="home_screen">Inicio</string>
     <string name="back_btn_desc">Regresar</string>
+    <string name="title_activity_second">SecondActivity</string>
+
 </resources>

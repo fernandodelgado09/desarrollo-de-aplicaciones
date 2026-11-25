@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414521872156",
+    "project_id": "watasei-371f2",
+    "storage_bucket": "watasei-371f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414521872156:android:e3a642d55af0f4b96374d9",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm4Yb4NExL_wHPutRtPTUG135gurwcQEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
